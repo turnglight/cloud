@@ -11,6 +11,7 @@
     <modules>
         <module>cloud-server</module>
         <module>cloud-admin</module>
+        <module>cloud-consumer</module>
     </modules>
 
     <repositories>
